@@ -1,0 +1,7 @@
+@inproceedings{REPO317,
+    author = "Lin, Xun and Wang, Shuai and Cai, Rizhao and Liu, Yizhong and Fu, Ying and Tang, Wenzhong and Yu, Zitong and Kot, Alex",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "211--221",
+    title = "{Suppress and Rebalance: Towards Generalized Multi-Modal Face Anti-Spoofing}",
+    year = "2024"
+}
